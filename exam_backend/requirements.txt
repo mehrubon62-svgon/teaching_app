@@ -1,0 +1,15 @@
+Django>=5.0
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+django-cors-headers
+python-decouple
+reportlab
+Pillow
+requests
+# Celery + Redis
+celery
+redis
+django-celery-beat
+# PostgreSQL
+psycopg2-binary
